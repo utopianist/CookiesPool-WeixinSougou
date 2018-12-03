@@ -1,2 +1,2 @@
 # CookiesPool-WeixinSougou
-Crawl SNUID from sogou.weixin.com
+Crawl SNUID from weixin.sogou.com
