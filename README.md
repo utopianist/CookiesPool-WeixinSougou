@@ -12,4 +12,5 @@ Crawl SNUID from weixin.sogou.com
 
 ### Redis-py Version
 Redis server v=3.2.100
+
 Requires: Python >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*
